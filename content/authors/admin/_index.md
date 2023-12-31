@@ -18,7 +18,7 @@ role: Technology Risk Consultant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: Schiller Clark
     url: https://www.example.com/
 
 # Social network links
@@ -27,9 +27,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:ken.stokes@kenestokes.me'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
+   - icon: brands/github
     url: https://github.com/ken3stokes
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/kenestokes
