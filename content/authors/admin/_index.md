@@ -2,9 +2,6 @@
 # Display name
 title: Ken E. Stokes
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
 # Full name (for SEO)
 first_name: Kenneth
 last_name: Stokes
